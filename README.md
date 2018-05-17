@@ -1,6 +1,6 @@
-![React Native Elements App](https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png)
+![React Native Elements App Demo](https://user-images.githubusercontent.com/5962998/37248832-a7060286-24b1-11e8-94a8-847ab6ded4ec.png)
 
-# React Native Elements App
+# React Native Elements App Demo
 
 This is the Demo app for [React Native Elements UI kit](https://github.com/react-native-training/react-native-elements) built with [Expo](https://expo.io/). In this app you will find examples on how to use various components as well as Production-ready screens which showcase how to combine multiple components to built entire views in your app.
 
