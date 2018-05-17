@@ -6,7 +6,7 @@ This is the Demo app for [React Native Elements UI kit](https://github.com/react
 
 This repo uses React Native Elements as a submodule through `/node_modules/react-native-elements`. Hence once you clone this repo, you can make changes to any RNE `/src` files, test these changes through this example app and also commit directly to the main RNE repo.
 
-### [Expo App](https://expo.io/@monte9/react-native-elements-app))
+### [Expo App](https://expo.io/@arayasoft/react-native-elements-app)
 
 ## Get Started
 
